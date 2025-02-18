@@ -28,7 +28,7 @@ A **machine learning model** that classifies music into different genres based o
 - Competitive Quizzing & Literature
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshay-garg)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshay-garg-a8b1601ba)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/akshay-garg)  
 
 Let's collaborate and build something amazing! 🚀
