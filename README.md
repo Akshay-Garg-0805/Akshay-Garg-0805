@@ -2,6 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=AI%2FML+Enthusiast;Deep+Learning+Explorer;Quizzing+and+Literature+Lover)
 
+![Profile Views](https://komarev.com/ghpvc/?username=akshay-garg&color=blue)
+
 ### 🚀 About Me
 I'm a passionate **AI/ML enthusiast** and a **third-year CSE student** exploring the vast world of technology. From building intelligent models to crafting engaging quizzes, I love working on innovative projects that push the boundaries of what's possible!
 
@@ -25,11 +27,17 @@ A **machine learning model** that classifies music into different genres based o
 - Computer Vision
 - Competitive Quizzing & Literature
 
+### 📊 GitHub Stats
+![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshay-garg&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-garg&layout=compact&theme=radical)
+
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshay-garg)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/akshay-garg)  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akshay-garg&theme=dark&hide_border=true)
 
-Let's collaborate and build something amazing! 🚀
+![Snake animation](https://github.com/akshay-garg/akshay-garg/blob/output/github-contribution-grid-snake.svg)
 
+Let's collaborate and build something amazing! 🚀
