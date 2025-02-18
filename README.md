@@ -31,8 +31,4 @@ A **machine learning model** that classifies music into different genres based o
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshay-garg)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/akshay-garg)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Akshay-Garg-0805&theme=dark&hide_border=true)
-
-![Snake animation](https://github.com/akshay-garg/Akshay-Garg-0805/blob/output/github-contribution-grid-snake.svg)
-
 Let's collaborate and build something amazing! 🚀
