@@ -33,6 +33,6 @@ A **machine learning model** that classifies music into different genres based o
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Akshay-Garg-0805&theme=dark&hide_border=true)
 
-![Snake animation](https://github.com/akshay-garg/akshay-garg/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/akshay-garg/Akshay-Garg-0805/blob/output/github-contribution-grid-snake.svg)
 
 Let's collaborate and build something amazing! 🚀
