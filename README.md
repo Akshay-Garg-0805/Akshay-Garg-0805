@@ -28,9 +28,9 @@ A **machine learning model** that classifies music into different genres based o
 - Competitive Quizzing & Literature
 
 ### 📊 GitHub Stats
-![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshay-garg&show_icons=true&theme=radical)
+![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshay-Garg-0805&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-garg&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Garg-0805&layout=compact&theme=radical)
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshay-garg)  
