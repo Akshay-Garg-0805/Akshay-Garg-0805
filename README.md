@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Akshay Garg | AI & ML Enthusiast 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00F7FF&center=true&vCenter=true&width=600&height=40&lines=Transforming+AI+Innovations+into+Reality;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Exploring+GANs%2C+LLMs%2C+and+NLP;Tech+Community+Leader+at+BVPCSI;Building+the+Future+of+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00F7FF&center=true&vCenter=true&width=600&height=40&lines=Transforming+AI+Innovations+into+Reality;Machine+Learning+%7C+Deep+Learning;Computer+Vision;Exploring+GANs%2C+LLMs%2C+and+NLP;Tech+Community+Leader+at+BVPCSI;Building+the+Future+of+AI" alt="Typing SVG" />
 </p>
 
 ---
