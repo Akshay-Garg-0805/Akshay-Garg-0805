@@ -1,34 +1,50 @@
-# Hi there, I'm Akshay Garg! 👋
+<h1 align="center">🚀 Akshay Garg | AI & ML Enthusiast 🚀</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=AI%2FML+Enthusiast;Deep+Learning+Explorer;Quizzing+and+Literature+Lover)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00F7FF&center=true&vCenter=true&width=600&height=40&lines=Transforming+AI+Innovations+into+Reality;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Exploring+GANs%2C+LLMs%2C+and+NLP;Tech+Community+Leader+at+BVPCSI;Building+the+Future+of+AI" alt="Typing SVG" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=akshay-garg&color=blue)
+---
 
-### 🚀 About Me
-I'm a passionate **AI/ML enthusiast** and a **third-year CSE student** exploring the vast world of technology. From building intelligent models to crafting engaging quizzes, I love working on innovative projects that push the boundaries of what's possible!
+### 🌌 About Me
 
-### 📝 Bio
-- 🎓 Third-year **Computer Science Engineering** student
-- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
-- 📚 Head of **Quizzing and Literature (QAL) subchapter** at BVPCSI
-- 🎯 Exploring **Deep Learning, NLP, and Computer Vision**
-- 💡 Always open to **collaborations** and **new opportunities**
+- 👨‍💻 Passionate about **AI, ML, Deep Learning, GANs, NLP, LLMs & Computer Vision**  
+- 🚀 Exploring **cutting-edge AI research & real-world applications**  
+- 🎯 Focused on **building intelligent systems & tech innovations**  
+- 🎓 **Tech Community Leader** at BVPCSI, heading the **QAL subchapter**  
+- 🎭 Quizzing enthusiast, organizing **engaging tech & literature events**  
 
-### 🔥 Projects
-#### 🤖 GenieBot
-An advanced chatbot leveraging **Natural Language Processing (NLP)** and **Deep Learning** to create interactive and intelligent conversations.
+---
 
-#### 🎵 Music Genre Classifier
-A **machine learning model** that classifies music into different genres based on audio features, utilizing **Deep Learning and feature extraction techniques**.
+### ⚡ Tech Stack & Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,cpp,git,github,mysql,linux,html,css,js" />
+</p>
 
-### 📌 Interests
-- Artificial Intelligence & Machine Learning
-- Deep Learning & NLP
-- Computer Vision
-- Competitive Quizzing & Literature
+---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshay-garg-a8b1601ba)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Akshay-Garg-0805)  
+### 🚀 Featured Projects
 
-Let's collaborate and build something amazing! 🚀
+🔹 [**GAN for Interior Design**](https://github.com/akshay-garg/GAN-Interior-Design) - Trained a **GAN model** to generate realistic interior designs.  
+🔹 [**ML-based Prediction System**](https://github.com/akshay-garg/ML-Prediction) - Built a machine learning model for **predictive analytics**.  
+🔹 More projects on my [GitHub](https://github.com/akshay-garg)!
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshay-garg&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-garg&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🎯 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshay-garg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">⚡ "Building the Future of AI, One Innovation at a Time" ⚡</p>
