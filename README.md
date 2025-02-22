@@ -18,7 +18,7 @@
 
 ### ⚡ Tech Stack & Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,streamlit,firebase,cpp,git,github,mysql,linux,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,streamlit,firebase,cpp,git,github,mysql,linux,html,css,js,powerbi" />
 </p>
 
 ---
