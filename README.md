@@ -27,7 +27,7 @@
 
 🔹 [**GAN for Interior Design**](https://github.com/akshay-garg/GAN-Interior-Design) - Trained a **GAN model** to generate realistic interior designs.  
 🔹 [**ML-based Prediction System**](https://github.com/akshay-garg/ML-Prediction) - Built a machine learning model for **predictive analytics**.  
-🔹 More projects on my [GitHub](https://github.com/akshay-garg)!
+🔹 More projects on my [GitHub](https://github.com/akshay-garg-0805)!
 
 ---
 
@@ -41,9 +41,11 @@
 
 ### 🎯 Let's Connect
 <p align="center">
-  <a href="[https://www.linkedin.com/in/akshay-garg]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/in/akshaygarg0805]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:gargakshay0805@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="mailto:akshay0805@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=outlook&logoColor=white"></a>
+  <a href="mailto:akshay0805@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a>
 </p>
 
 ---
