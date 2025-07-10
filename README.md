@@ -14,7 +14,7 @@
 
 - 👨‍💻 Focused on **AI/ML**, **GANs**, **LLMs**, **NLP**, and **Computer Vision**
 - 🚀 Passionate about **deploying intelligent systems** that matter
-- 📢 Leading the **QAL subchapter** of BVPCSI
+- 📢 Leaded the **QAL subchapter** of BVPCSI
 - 🧠 Researching and building around **Generative Models**, **Prompt Engineering**, and **Applied AI**
 - 🧩 Quizzer, creative writer, and event organizer for tech and lit circuits
 
