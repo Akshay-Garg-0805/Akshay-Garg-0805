@@ -75,5 +75,5 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1ykUe6zzf0LZ3DgdiT/giphy.gif" width="250px" alt="AI animation" />
+  <img src="[https://media.giphy.com/media/1ykUe6zzf0LZ3DgdiT/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZqdm50NGRtaWJ4NXZtMzRsZ3lycngxd2p1ZnVnbWw4ZzM0MWs1bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jY1r8EHyk4Ye9KUOUb/giphy.gif)" width="250px" alt="AI animation" />
 </p>
